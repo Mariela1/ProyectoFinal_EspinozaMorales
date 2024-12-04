@@ -1,0 +1,21 @@
+[{
+  "_id": "64c7b001e7e0f72c1a000001",
+  "nombre": "Juan",
+  "apellido": "Pérez",
+  "dni": "12345678A",
+  "email": "juan.perez@example.com"
+},
+{
+  "_id": "64c7b001e7e0f72c1a000002",
+  "nombre": "Ana",
+  "apellido": "García",
+  "dni": "87654321B",
+  "email": "ana.garcia@example.com"
+},
+{
+  "_id": "64c7b001e7e0f72c1a000003",
+  "nombre": "Luis",
+  "apellido": "Martínez",
+  "dni": "56781234C",
+  "email": "luis.martinez@example.com"
+}]
