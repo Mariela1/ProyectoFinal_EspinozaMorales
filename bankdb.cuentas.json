@@ -1,0 +1,21 @@
+[{
+  "_id": "84d9b002e7f1f92c2b000001",
+  "numeroCuenta": "123456789012",
+  "saldo": 1500.75,
+  "tipoCuenta": "AHORROS",
+  "clienteId": "64c7b001e7e0f72c1a000001"
+},
+{
+  "_id": "84d9b002e7f1f92c2b000002",
+  "numeroCuenta": "987654321098",
+  "saldo": 200,
+  "tipoCuenta": "CORRIENTE",
+  "clienteId": "64c7b001e7e0f72c1a000002"
+},
+{
+  "_id": "84d9b002e7f1f92c2b000003",
+  "numeroCuenta": "456789123456",
+  "saldo": 0,
+  "tipoCuenta": "AHORROS",
+  "clienteId": "64c7b001e7e0f72c1a000003"
+}]
