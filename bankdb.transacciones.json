@@ -1,0 +1,180 @@
+[{
+  "_id": {
+    "$oid": "674f477e4907c9db32bf3504"
+  },
+  "tipo": "Deposito",
+  "monto": 500,
+  "fecha": "2024-12-03T10:00:00",
+  "cuentaOrigen": "1234567890",
+  "cuentaDestino": "0987654321"
+},
+{
+  "_id": {
+    "$oid": "674f48124907c9db32bf3511"
+  },
+  "tipo": "Transferencia",
+  "monto": 500,
+  "fecha": "2024-12-03T14:30:00",
+  "cuentaOrigen": "1234567890",
+  "cuentaDestino": "9876543210"
+},
+{
+  "_id": {
+    "$oid": "674f488e4907c9db32bf3513"
+  },
+  "tipo": "Transferencia",
+  "monto": 1500,
+  "fecha": "2024-12-03T14:30:00",
+  "cuentaOrigen": "CUENTA_001",
+  "cuentaDestino": "CUENTA_002"
+},
+{
+  "_id": {
+    "$oid": "674fc677e00bd6263e521e63"
+  },
+  "tipo": "DEPOSITO",
+  "monto": 200,
+  "cuentaOrigen": "11111",
+  "cuentaDestino": "22222",
+  "_class": "com.banco.xyz.transacciones.model.Transaccion"
+},
+{
+  "_id": {
+    "$oid": "674fc68b01d8ee01542aaa6a"
+  },
+  "tipo": "DEPOSITO",
+  "monto": 200,
+  "cuentaOrigen": "11111",
+  "cuentaDestino": "22222",
+  "_class": "com.banco.xyz.transacciones.model.Transaccion"
+},
+{
+  "_id": {
+    "$oid": "674fc6e35ef32a1254a1e6c7"
+  },
+  "tipo": "DEPOSITO",
+  "monto": 200,
+  "cuentaOrigen": "11111",
+  "cuentaDestino": "22222",
+  "_class": "com.banco.xyz.transacciones.model.Transaccion"
+},
+{
+  "_id": {
+    "$oid": "674fc6f45184842a6f73012b"
+  },
+  "tipo": "DEPOSITO",
+  "monto": 200,
+  "cuentaOrigen": "11111",
+  "cuentaDestino": "22222",
+  "_class": "com.banco.xyz.transacciones.model.Transaccion"
+},
+{
+  "_id": {
+    "$oid": "674fc9ad83377d2bfc9b5be2"
+  },
+  "tipo": "DEPOSITO",
+  "monto": 200,
+  "cuentaOrigen": "11111",
+  "cuentaDestino": "22222",
+  "_class": "com.banco.xyz.transacciones.model.Transaccion"
+},
+{
+  "_id": {
+    "$oid": "674fd1ec5633806703a5f101"
+  },
+  "tipo": "DEPOSITO",
+  "monto": 200,
+  "cuentaOrigen": "11111",
+  "cuentaDestino": "22222",
+  "_class": "com.banco.xyz.transacciones.model.Transaccion"
+},
+{
+  "_id": {
+    "$oid": "674fd52f2dfed67c359cbaa0"
+  },
+  "tipo": "DEPOSITO",
+  "monto": 200,
+  "cuentaOrigen": "11111",
+  "cuentaDestino": "22222",
+  "_class": "com.banco.xyz.transacciones.model.Transaccion"
+},
+{
+  "_id": {
+    "$oid": "674fd718821c747d5b9db45e"
+  },
+  "tipo": "DEPOSITO",
+  "monto": 200,
+  "cuentaOrigen": "11111",
+  "cuentaDestino": "22222",
+  "_class": "com.banco.xyz.transacciones.model.Transaccion"
+},
+{
+  "_id": {
+    "$oid": "674fd8b7582937554f385eb2"
+  },
+  "tipo": "DEPOSITO",
+  "monto": 200,
+  "cuentaOrigen": "11111",
+  "cuentaDestino": "22222",
+  "_class": "com.banco.xyz.transacciones.model.Transaccion"
+},
+{
+  "_id": {
+    "$oid": "674fd9374f6b0a2186d9bd36"
+  },
+  "tipo": "DEPOSITO",
+  "monto": 200,
+  "cuentaOrigen": "11111",
+  "cuentaDestino": "22222",
+  "_class": "com.banco.xyz.transacciones.model.Transaccion"
+},
+{
+  "_id": {
+    "$oid": "674fdb8f32b5a454e037660a"
+  },
+  "tipo": "DEPOSITO",
+  "monto": 200,
+  "cuentaOrigen": "11111",
+  "cuentaDestino": "22222",
+  "_class": "com.banco.xyz.transacciones.model.Transaccion"
+},
+{
+  "_id": {
+    "$oid": "674fded0c821f2278068c968"
+  },
+  "tipo": "DEPOSITO",
+  "monto": 200,
+  "cuentaOrigen": "11111",
+  "cuentaDestino": "22222",
+  "_class": "com.banco.xyz.transacciones.model.Transaccion"
+},
+{
+  "_id": {
+    "$oid": "674fdf0efee8d474690b16eb"
+  },
+  "tipo": "DEPOSITO",
+  "monto": 200,
+  "cuentaOrigen": "11111",
+  "cuentaDestino": "22222",
+  "_class": "com.banco.xyz.transacciones.model.Transaccion"
+},
+{
+  "_id": {
+    "$oid": "674fdf4108d0d55b724f2b4e"
+  },
+  "tipo": "DEPOSITO",
+  "monto": 200,
+  "cuentaOrigen": "11111",
+  "cuentaDestino": "22222",
+  "_class": "com.banco.xyz.transacciones.model.Transaccion"
+},
+{
+  "_id": {
+    "$oid": "675082abe73f37353bac168b"
+  },
+  "tipo": "DEPOSITO",
+  "monto": 200,
+  "cuentaOrigen": "11111",
+  "cuentaDestino": "22222",
+  "_class": "com.banco.xyz.transacciones.model.Transaccion"
+}]
