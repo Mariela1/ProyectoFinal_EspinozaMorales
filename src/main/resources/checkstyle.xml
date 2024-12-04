@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE module PUBLIC "-//CHECKSTYLE//DTD Check Style Configuration 1.2//EN" "https://checkstyle.sourceforge.io/dtds/configuration_1_2.dtd">
+
+<!-- Configuración de Checkstyle -->
+<module name="Checker">
+    <!-- Configuración del TreeWalker -->
+    <module name="TreeWalker">
+        <module name="FinalClass"/>
+        <module name="TodoComment"/>
+    </module>
+
+    <!-- Módulo FileLength fuera de TreeWalker -->
+    <module name="FileLength">
+        <property name="max" value="50"/>
+    </module>
+</module>
+
+
+
+
+
+
+
+

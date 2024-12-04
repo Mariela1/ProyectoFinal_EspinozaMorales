@@ -5,4 +5,8 @@ import org.springframework.data.mongodb.repository.ReactiveMongoRepository;
 
 public interface TransaccionRepository extends ReactiveMongoRepository<Transaccion, String> {
     // Métodos adicionales personalizados si los necesitas
+
+
+
+
 }
