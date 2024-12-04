@@ -9,7 +9,7 @@ import reactor.core.publisher.Flux;
 import org.springframework.stereotype.Controller;
 
 @RestController
-@RequestMapping("/transacciones")
+@RequestMapping("/api/transacciones")
 public class TransaccionController {
 
     private final TransaccionService transaccionService;
